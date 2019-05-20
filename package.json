@@ -1,0 +1,15 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Entrega 1",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian cristianlaverde94@gmail.com",
+  "license": "ISC"
+}
